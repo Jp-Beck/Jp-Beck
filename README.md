@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jp-Beck
 - 👀 I’m interested in Artificial Intelligence in law 
-- 🌱 I’m currently learning #python and web-development
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me ...
 
